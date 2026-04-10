@@ -8,11 +8,11 @@
   "server": {
     "ip": "test12341231.aternos.me",
     "port": 62184,
-    "version": "",
+    "version": "1.12.2",
     "try-creative": false
   },
   "position": {
-    "enabled": false,
+    "enabled": true,
     "x": 0,
     "y": 100,
     "z": 0
